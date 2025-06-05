@@ -1,0 +1,9 @@
+[package]
+name = "audio-rust"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+io = "0.0.2"
+jack = "0.13.0"
+rustfft = "6.2.0"
