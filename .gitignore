@@ -1,5 +1,5 @@
 .git/
 .vscode/
-.clion/
+.idea/
 *.lock
 target/
